@@ -347,7 +347,7 @@ glp1-risk-prediction/
 
 - **项目主页**: [GitHub Repository](https://github.com/jiyuan123/glp1-risk-prediction)
 - **问题反馈**: [Issues](https://github.com/jiyuan123/glp1-risk-prediction/issues)
-- **邮箱**: your-email@example.com
+- **邮箱**: jiyuan@sdmcro.com
 
 ---
 
