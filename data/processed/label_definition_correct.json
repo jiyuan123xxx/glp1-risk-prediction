@@ -1,0 +1,40 @@
+{
+  "label_definition_method": "基于真实试验结果",
+  "high_risk_criteria": [
+    "试验状态为 TERMINATED、WITHDRAWN 或 SUSPENDED",
+    "why_stopped 字段包含安全性关键词"
+  ],
+  "safety_keywords": [
+    "safety",
+    "adverse",
+    "toxicity",
+    "side effect",
+    "unsafe",
+    "death",
+    "fatal",
+    "severe",
+    "serious",
+    "unethical",
+    "harm",
+    "patient died",
+    "mortality",
+    "elevated liver enzymes",
+    "pancreatitis",
+    "hypoglycemia",
+    "cardiovascular",
+    "stroke",
+    "hospitalization",
+    "withdrawn due to ae"
+  ],
+  "data_statistics": {
+    "total_studies": 22093,
+    "high_risk_studies": 84,
+    "low_risk_studies": 22009,
+    "high_risk_percentage": 0.3802109265378174,
+    "why_stopped_fill_rate": 6.377585660616485,
+    "terminated_studies_count": 1597,
+    "merged_total": 18313,
+    "merged_high_risk": 73,
+    "merged_low_risk": 18240
+  }
+}
